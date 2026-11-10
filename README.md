@@ -5,9 +5,9 @@
 
 I'm Walter, a technology enthusiast passionate about learning and improving my skills in software development and other areas of technology.  
 
-I'm currently in my second semester of Software Engineering at **UCSal**. I'm always looking for courses and opportunities to strengthen my technical skills and improve my problem-solving abilities.  
+I'm currently studying Software Engineering at **UCSal**. I'm always looking for courses and opportunities to strengthen my technical skills and improve my problem-solving abilities.  
 
-Currently building projects with React and Java, focusing on improving my JavaScript and Object-Oriented Programming (OOP) skills.
+Currently building projects with React and Java, focusing on improving my problem-solving skills and agile methodologies.
 
 Welcome to my GitHub! Here you can explore my projects and follow my learning journey through my repositories.
 
